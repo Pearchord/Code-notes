@@ -68,14 +68,14 @@
 
 **学什么**（只学这些，不多不少）：
 
-| Day | 主题 | 关键内容 |
-|---|---|---|
-| Day 1 | 变量与数据类型 | `let`/`const`、字符串、数组、对象 |
-| Day 1 | 函数 | 箭头函数 `() => {}`、参数、返回值 |
-| Day 2 | 数组操作 | `.map()`、`.filter()`、`.find()`、`.flatMap()`、展开运算符 `...` |
-| Day 2 | 异步 | `async/await`、`Promise`（PocketBase API 全是异步的） |
-| Day 3 | 模块系统 | `import`/`export`（ES Module，项目中每个文件都在用） |
-| Day 3 | 解构赋值 | `const { name, age } = user`、`const [first, ...rest] = arr` |
+| Day   | 主题      | 关键内容                                                        |
+| ----- | ------- | ----------------------------------------------------------- |
+| Day 1 | 变量与数据类型 | `let`/`const`、字符串、数组、对象                                     |
+| Day 1 | 函数      | 箭头函数 `() => {}`、参数、返回值                                      |
+| Day 2 | 数组操作    | `.map()`、`.filter()`、`.find()`、`.flatMap()`、展开运算符 `...`     |
+| Day 2 | 异步      | `async/await`、`Promise`（PocketBase API 全是异步的）               |
+| Day 3 | 模块系统    | `import`/`export`（ES Module，项目中每个文件都在用）                     |
+| Day 3 | 解构赋值    | `const { name, age } = user`、`const [first, ...rest] = arr` |
 
 **实战练习**：
 ```js
